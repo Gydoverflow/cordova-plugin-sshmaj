@@ -1,0 +1,14 @@
+{
+  "name": "cordova-plugin-sshmaj",
+  "version": "0.0.1",
+  "description": "To make ssh connection trougth cordova app",
+  "cordova": {
+    "id": "cordova-ssh-maj-plugin",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Gokydzi the Billionaire",
+  "license": "ISC"
+}

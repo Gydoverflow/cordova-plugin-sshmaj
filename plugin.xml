@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova-ssh-maj-plugin" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>cordova-ssh-maj-plugin</name>
+    <js-module name="cordova-ssh-maj-plugin" src="www/cordova-ssh-maj-plugin.js">
+        <clobbers target="cordova.plugins.cordova-ssh-maj-plugin" />
+    </js-module>
+</plugin>
